@@ -84,15 +84,6 @@ Based on the analysis, the following recommendations can help improve employee r
 - Strengthen career development and engagement initiatives for younger employees.
 - Develop targeted retention strategies for departments and roles with higher attrition.
 
-**Conclusion:** The analysis highlights overtime, job role, business travel, and marital status as important factors associated with employee attrition. These insights can help HR teams identify potential retention challenges and develop targeted workforce strategies.
-
-## Business Recommendations
-- Review employee retention strategies in job roles with higher attrition.
-- Monitor overtime requirements and employee workload.
-- Improve employee engagement and career development opportunities.
-- Evaluate compensation and growth opportunities.
-- Develop targeted retention initiatives based on employee attrition patterns.
-
 ## Project Files
 - `HR_Employee_Attrition_Analysis.ipynb` – Complete Python analysis and visualizations.
 
