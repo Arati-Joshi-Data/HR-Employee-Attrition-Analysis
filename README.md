@@ -54,6 +54,38 @@ The analysis explores how employee attrition varies across job roles, department
 
 It also examines how income, age, experience, and tenure relate to employee turnover.
 
+## Key Findings & Business Insights
+
+The exploratory data analysis revealed several important employee attrition patterns:
+
+1. **Overall Attrition:** The organization recorded an attrition rate of 16.12%, with 237 employees leaving out of 1,470 employees.
+
+2. **Department Analysis:** The Sales department had the highest attrition rate at 20.63%, followed by Human Resources at 19.05%.
+
+3. **Job Role Analysis:** Sales Representatives recorded the highest attrition rate at 39.76%, followed by Laboratory Technicians at 23.94% and Human Resources employees at 23.08%.
+
+4. **Overtime Analysis:** Employees working overtime had a significantly higher attrition rate (30.53%) compared with employees not working overtime (10.44%).
+
+5. **Business Travel Analysis:** Employees who travelled frequently recorded an attrition rate of 24.91%, compared with 8.00% among employees who did not travel.
+
+6. **Gender Analysis:** Male employees recorded an attrition rate of 17.01%, compared with 14.80% for female employees.
+
+7. **Marital Status Analysis:** Single employees had the highest attrition rate at 25.53%, compared with married employees (12.48%) and divorced employees (10.09%).
+
+8. **Age Analysis:** Employees who left the organization had a lower median age (approximately 32 years) compared with employees who stayed (approximately 36 years).
+
+## Business Recommendations
+
+Based on the analysis, the following recommendations can help improve employee retention:
+
+- Review retention strategies for Sales Representatives and Laboratory Technicians.
+- Monitor overtime practices and employee workload.
+- Evaluate the impact of frequent business travel on employee satisfaction.
+- Strengthen career development and engagement initiatives for younger employees.
+- Develop targeted retention strategies for departments and roles with higher attrition.
+
+**Conclusion:** The analysis highlights overtime, job role, business travel, and marital status as important factors associated with employee attrition. These insights can help HR teams identify potential retention challenges and develop targeted workforce strategies.
+
 ## Business Recommendations
 - Review employee retention strategies in job roles with higher attrition.
 - Monitor overtime requirements and employee workload.
